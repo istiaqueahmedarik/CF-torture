@@ -6,10 +6,10 @@ This Chrome extension ensures you solve at least one Codeforces problem daily. I
 
 1. Clone the repository to your local machine.
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/istiaqueahmedarik/CF-torture
+    cd CF-torture
     ```
-
+    - or download the repository as a zip file and extract it.
 2. Open Chrome and navigate to `chrome://extensions/`.
 
 3. Enable "Developer mode" by toggling the switch in the top right corner.
